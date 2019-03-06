@@ -1,6 +1,6 @@
 # Welcome to the home of The Pengwin!
 
-### Path of Exile Synthesis league giveaway
+### Path of Exile Synthesis league giveaway on 3/8/19
 
 *I've already run this by GGG support*
 
