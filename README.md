@@ -4,7 +4,7 @@
 
 *I've already run this by GGG support*
 
-**Who am I? The Pengwin** (www.twitch.tv/the_pengwin), a small fly on the wall streamer who has been around games for his entire life. I only have about ~550 hours in path so I'd describe myself as a semi-hardcore-casual-enthusiast. Gaming is a passion and depending on the reception of this giveaway I may do this for future leagues to come! I plan to stream all sorts of games, so my content is not strictly PoE related. Feel free to shout out helpful tips or point out how terrible I am compared to your other favorite streamers!
+**Who am I? The Pengwin** [twitch.tv/the_pengwin](www.twitch.tv/the_pengwin), a small fly on the wall streamer who has been around games for his entire life. I only have about ~550 hours in path so I'd describe myself as a semi-hardcore-casual-enthusiast. Gaming is a passion and depending on the reception of this giveaway I may do this for future leagues to come! I plan to stream all sorts of games, so my content is not strictly PoE related. Feel free to shout out helpful tips or point out how terrible I am compared to your other favorite streamers!
 
 
 **THE PRIZES:**
@@ -26,6 +26,6 @@ Starting at league launch I will do a 12+ hour stream. The giveaways will be at 
 **Basic entry for the drawing will be type the designated command in chat during the stream. You can enter at any time during the 4 hour window, but to claim the prize you must be (1) present in chat, (2) a follower of the channel, (3) account must be 2 days old, and (4) not already have won a drawing. If these conditions are not met at the time of drawing, a re-roll will be done immediately until a winner is found. The individuals who win the additional codes will have a chance to choose between either the Sunstone or Doomcrow code they will receive.**
 
 
-That should be all the important details. If you have any questions, feel free tweet me [@the_pengwin](https://twitter.com/the_pengwin) or catch me on stream at twitch.tv/the_pengwin!
+That should be all the important details. If you have any questions, feel free tweet me [@the_pengwin](https://twitter.com/the_pengwin) or catch me on stream!
 
 
