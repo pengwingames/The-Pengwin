@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to the home of The Pengwin!
 
-You can use the [editor on GitHub](https://github.com/pengwingames/pengwinlive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Path of Exile Synthesis league giveaway
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*I've already run this by GGG support*
 
-### Markdown
+**Who am I? The Pengwin** (www.twitch.tv/the_pengwin), a small fly on the wall streamer who has been around games for his entire life. I only have about ~550 hours in path so I'd describe myself as a semi-hardcore-casual-enthusiast. Gaming is a passion and depending on the reception of this giveaway I may do this for future leagues to come! I plan to stream all sorts of games, so my content is not strictly PoE related. Feel free to shout out helpful tips or point out how terrible I am compared to your other favorite streamers!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**THE PRIZES:**
 
-# Header 1
-## Header 2
-### Header 3
+**2x $30 Sunstone supporter packs codes**
 
-- Bulleted
-- List
+**1x $30 Doomcrow supporter pack code**
 
-1. Numbered
-2. List
+**X additional supporter pack codes determined during the stream.**
 
-**Bold** and _Italic_ and `Code` text
+There will be additional prizes offered depending on how many subscribers I get during the stream, but will be handed out at a future time whenever GGG can process the order for me. The codes will be redeemable through https://www.pathofexile.com/shop/redeem-key.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**THE FORMAT:**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pengwingames/pengwinlive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Starting at league launch I will do a 12+ hour stream. The giveaways will be at ~4/8/12 hours from league start, with the guaranteed prizes in order of Sunstone/Doomcrow/Sunstone pack codes. There will be a timer on my stream counting towards each giveaway. The additional prize giveaways will be (1) more supporter pack per (15) subscribers I get during each 4 hour window. **Subscribers will have a 4x more likely chance of winning any, as they will be contributing towards the additional prizes. Anyone can still enter for free and have a chance!**
 
-### Support or Contact
+**Basic entry for the drawing will be type the designated command in chat during the stream. You can enter at any time during the 4 hour window, but to claim the prize you must be (1) present in chat, (2) a follower of the channel, (3) account must be 2 days old, and (4) not already have won a drawing. If these conditions are not met at the time of drawing, a re-roll will be done immediately until a winner is found. The individuals who win the additional codes will have a chance to choose between either the Sunstone or Doomcrow code they will receive.**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+That should be all the important details. If you have any questions, feel free tweet me [@the_pengwin](https://twitter.com/the_pengwin) or catch me on stream at twitch.tv/the_pengwin!
+
+
