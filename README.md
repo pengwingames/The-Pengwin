@@ -10,7 +10,7 @@ Will I DO IT?!? Tune in and find out.  Maybe also some casual games somewhere in
   
    
    
-### ~~Path of Exile Synthesis league giveaway on 3/8/19~~
+### Path of Exile Synthesis league giveaway on ~~3/8/19~~ COMPLETED
 
 *I've already run this by GGG support*
 
