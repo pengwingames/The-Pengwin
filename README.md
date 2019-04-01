@@ -6,7 +6,10 @@ The goal: 450+ gearscore cap and hit +20 keys by end of April!
 
 Will I DO IT?!? Tune in and find out.  Maybe also some casual games somewhere in between.
 
-
+ 
+  
+   
+   
 #### Path of Exile Synthesis league giveaway on 3/8/19
 
 *I've already run this by GGG support*
