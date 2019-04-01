@@ -1,6 +1,6 @@
 # Welcome to the home of The Pengwin!
 
-###Beat Sekiro, next is some Division 2 grind and WoW Mythic+ grinding
+### Beat Sekiro, next is some Division 2 grind and WoW Mythic+ grinding
 
 The goal: 450+ gearscore cap and hit +20 keys by end of April!
 
