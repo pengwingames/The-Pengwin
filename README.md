@@ -1,5 +1,9 @@
 # Welcome to the home of The Pengwin!
 
+### April Goal - COMPLETED
+
+Even surpassed the +20 key and did a +21!  Thanks for all the views, what is the next goal.. hmm...
+
 ### Beat Sekiro, next is some Division 2 grind and WoW Mythic+ grinding
 
 The goal: 450+ gearscore cap and hit +20 keys by end of April!
