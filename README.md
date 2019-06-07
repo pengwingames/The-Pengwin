@@ -1,5 +1,11 @@
 # Welcome to the home of The Pengwin!
 
+### ~~May~~ June Goals
+
+2k+ io on new warrior OR 2.8k+ io on rogue
+Level 95 in PoE's latest expansion, Legion.
+Stream some of Cadence of Hyrule
+
 ### April Goal - COMPLETED
 
 Even surpassed the +20 key and did a +21!  Thanks for all the views, what is the next goal.. hmm...
